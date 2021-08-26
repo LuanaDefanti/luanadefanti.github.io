@@ -1,0 +1,14 @@
+body {
+	margin:  0;
+	padding: 0;
+}
+.teste {
+	background-color: green;
+	width: 1200px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin: auto;
+	font-size: 30px;
+	color: #000000;
+} 
